@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "garcia.sergio.guessthenumber"
+    namespace = "garcia.sergio.practica04thecheezery"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "garcia.sergio.guessthenumber"
+        applicationId = "garcia.sergio.practica04thecheezery"
         minSdk = 21
         targetSdk = 35
         versionCode = 1

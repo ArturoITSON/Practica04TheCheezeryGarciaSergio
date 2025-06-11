@@ -1,4 +1,4 @@
-package garcia.sergio.guessthenumber
+package garcia.sergio.practica04thecheezery
 
 import org.junit.Test
 
